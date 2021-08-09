@@ -6,7 +6,7 @@
 #include "TH1.h"
 #include "TRandom.h"
 
-
+//hi mate
 
 float func(float x){
 
